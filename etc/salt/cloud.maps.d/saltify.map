@@ -1,0 +1,5 @@
+make_salty:
+  - machine01:
+    ssh_host: 12.34.56.78
+  - machine02:
+    ssh_host: 44.33.22.11

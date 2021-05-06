@@ -1,0 +1,7 @@
+vmware-cent:
+  cent-01:
+    minion:
+      master: 10.149.88.86
+  cent-02:
+    minion:
+      master 10.149.88.86
