@@ -1,5 +1,5 @@
-/etc/nginx/nginx.conf:
+/etc/nginx/bar.conf:
   file.managed:
     - source:
-      - salt://files/nginx.conf
+      - salt://files/bar.conf
     - makedirs: True
