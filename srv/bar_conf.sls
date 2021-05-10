@@ -1,4 +1,4 @@
-/etc/nginx/bar.conf:
+/etc/bar/bar.conf:
   file.managed:
     - source:
       - salt://files/bar.conf
