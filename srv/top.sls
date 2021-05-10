@@ -1,0 +1,3 @@
+base:
+  '*':
+    - bar_conf
