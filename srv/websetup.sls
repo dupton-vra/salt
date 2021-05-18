@@ -6,3 +6,4 @@ websetup:
          - httpd
          - php
          - php-mysql
+         - nginx
